@@ -1,0 +1,21 @@
+{
+  "name": "wf-agenda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^1.0.0",
+    "async": "^2.5.0",
+    "cloudant": "^1.8.0",
+    "follow": "^0.12.1",
+    "lodash": "^4.17.4",
+    "nano": "^6.4.0",
+    "request": "^2.81.0",
+    "superagent": "^3.5.2"
+  }
+}
